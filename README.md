@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐯 Happy New Year 2022 🧧
+<h3 align="center">Hi 👋, I'm Minjeong Jeon</h3>
+🐯 Happy New Year 2022 🧧
 
 <!-- - 🔭 I’m currently working on level up. -->
-- 🌱 I’m currently learning Deep Learning. 
 - ⛰ I usually go hiking or backpacking.
+- 🌱 I’m currently learning Deep Learning. 
 - 🖋 my blog is... 👉
      [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://mseagle.tistory.com/)
 
@@ -29,3 +30,9 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummjevel&show_icons=true&count_private=true) -->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ummjevel)  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ummjevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ummjevel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ummjevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ummjevel" height="30" width="40" /></a>
+</p>
