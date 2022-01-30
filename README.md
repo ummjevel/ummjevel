@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🐯 Happy New Year 2022 🧧
 
 <!-- - 🔭 I’m currently working on level up. -->
-- ⛰ I usually go hiking or backpacking.
+- ⛰ I usually go hiking and backpacking.
 - 🌱 I’m currently learning Deep Learning. 
 - 🖋 my blog is... 👉
      [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://mseagle.tistory.com/)
