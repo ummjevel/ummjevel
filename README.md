@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🐯 Happy New Year 2022 🧧
 
-- 🔭 I’m currently working on level up.
+<!-- - 🔭 I’m currently working on level up. -->
 - 🌱 I’m currently learning Deep Learning. 
 - ⛰ I usually go hiking or backpacking.
 - 🖋 my blog is... 👉
