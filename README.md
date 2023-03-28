@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hi 👋, I'm Minjeong Jeon</h3>
-🐯 Happy New Year 2022 🧧
 
-<!-- - 🔭 I’m currently working on level up. -->
-- ⛰ I usually go hiking and backpacking.
-- 🌱 I’m currently learning Deep Learning. 
+- 🔭 I’m currently working on level up.
 - 🖋 my blog is... 👉
      [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://mseagle.tistory.com/)
 
