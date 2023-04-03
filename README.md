@@ -1,35 +1,31 @@
-<!--
-**ummjevel/ummjevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Minjeong Jeon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in NLP
 
-<h3 align="center">Hi 👋, I'm Minjeong Jeon</h3>
+Contacts
+<div>
+     <span>
+           [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mseagle2023@gmail.com)](mailto:mseagle2023@gmail.com)
+          <a href="https://www.linkedin.com/in/minjeong-jeon-680b021a1/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     </span>
+</div>
 
-- 🔭 I’m currently working on level up.
-- 🖋 my blog is... 👉
-     [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://mseagle.tistory.com/)
+Skills
+<div>
+     <span>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+     </span>
+</div>
+
+Projects
+
+Awards
+
+Logs
 
 
 
-### Skills
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummjevel&show_icons=true&count_private=true) -->
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ummjevel)  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://instagram.com/ummjevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ummjevel" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/ummjevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ummjevel" height="30" width="40" /></a>
-</p>
+![ummjevel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ummjevel&show_icons=true&theme=radical)
