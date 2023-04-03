@@ -5,9 +5,10 @@ Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mseagle2023@gmail.com)](mailto:mseagle2023@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minjeong-jeon-680b021a1/)](https://www.linkedin.com/in/minjeong-jeon-680b021a1/)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://far-ballcap-854.notion.site/384260f1015545659829d45879bba001)
 
+<img src=""/>
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://far-ballcap-854.notion.site/384260f1015545659829d45879bba001)
 
 Skills
 
