@@ -15,7 +15,7 @@
 
 🏆 Awards
 * 2023 Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ Silver🥈 
-* 2023 AI Connect 노트북으로 GPT 맛보기(과제: 한국어 문서 생성 요약) Public 1st🥇, Final 4/5 발표 (BREADANDBUTTER 팀)
+* 2023 AI Connect 노트북으로 GPT 맛보기(과제: 한국어 문서 생성 요약) Public 1st🥇, Final 1st🥇 (BREADANDBUTTER🍷 팀)
 
 
 📝 Result
