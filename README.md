@@ -14,12 +14,12 @@
 
 
 🏆 Awards
-* 2023 Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ Silver🥈 
 * 2023 AI Connect 노트북으로 GPT 맛보기(과제: 한국어 문서 생성 요약) Public 1st🥇, Final 1st🥇 (BREADANDBUTTER🍷 팀)
 
 
 📝 Result
 * 2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 4%(16위), private 상위 10%(22위)
+* 2023 Dacon 도배 하자 유형 분류 AI 경진대회 상위 5% (51/1025)
 
 
 📑 Projects
