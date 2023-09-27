@@ -11,6 +11,7 @@
 💼 Career
 * 2015.08 ~ 2018.02 covision: 그룹웨어 솔루션 제품개발 및 프로젝트 수행
 * 2020.01 ~ 2020.06 cubox: Face Recognition 관련 연구소
+* 2023.05 ~ Ardino: 에듀테크 관련 AI 연구 인턴
 
 
 🏆 Awards
@@ -18,8 +19,9 @@
 
 
 📝 Result
-* 2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 4%(16위), private 상위 10%(22위)
+* 2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 4% (16위), private 상위 10% (22위)
 * 2023 Dacon 도배 하자 유형 분류 AI 경진대회 상위 5% (51/1025)
+* 2023 Dacon 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤 public 6등, private 6등 (6/308)
 
 
 📑 Projects
